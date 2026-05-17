@@ -1,0 +1,15 @@
+C:\Users\user\Documents\Project\.net\.net-arrays-exam\NumberSearch\bin\Debug\net10.0\NumberSearch.exe
+C:\Users\user\Documents\Project\.net\.net-arrays-exam\NumberSearch\bin\Debug\net10.0\NumberSearch.deps.json
+C:\Users\user\Documents\Project\.net\.net-arrays-exam\NumberSearch\bin\Debug\net10.0\NumberSearch.runtimeconfig.json
+C:\Users\user\Documents\Project\.net\.net-arrays-exam\NumberSearch\bin\Debug\net10.0\NumberSearch.dll
+C:\Users\user\Documents\Project\.net\.net-arrays-exam\NumberSearch\bin\Debug\net10.0\NumberSearch.pdb
+C:\Users\user\Documents\Project\.net\.net-arrays-exam\NumberSearch\obj\Debug\net10.0\NumberSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Project\.net\.net-arrays-exam\NumberSearch\obj\Debug\net10.0\NumberSearch.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Project\.net\.net-arrays-exam\NumberSearch\obj\Debug\net10.0\NumberSearch.AssemblyInfo.cs
+C:\Users\user\Documents\Project\.net\.net-arrays-exam\NumberSearch\obj\Debug\net10.0\NumberSearch.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Project\.net\.net-arrays-exam\NumberSearch\obj\Debug\net10.0\NumberSearch.sourcelink.json
+C:\Users\user\Documents\Project\.net\.net-arrays-exam\NumberSearch\obj\Debug\net10.0\NumberSearch.dll
+C:\Users\user\Documents\Project\.net\.net-arrays-exam\NumberSearch\obj\Debug\net10.0\refint\NumberSearch.dll
+C:\Users\user\Documents\Project\.net\.net-arrays-exam\NumberSearch\obj\Debug\net10.0\NumberSearch.pdb
+C:\Users\user\Documents\Project\.net\.net-arrays-exam\NumberSearch\obj\Debug\net10.0\NumberSearch.genruntimeconfig.cache
+C:\Users\user\Documents\Project\.net\.net-arrays-exam\NumberSearch\obj\Debug\net10.0\ref\NumberSearch.dll
