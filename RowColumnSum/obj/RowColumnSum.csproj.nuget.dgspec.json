@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\user\\Documents\\Project\\.net\\.net-arrays-exam\\RowColumnSum\\RowColumnSum.csproj": {}
+    "C:\\Users\\user\\Documents\\Project\\.net\\.net-arrays-exam\\RowColumnSum\\RowColumnSum.csproj": {}
   },
   "projects": {
-    "c:\\Users\\user\\Documents\\Project\\.net\\.net-arrays-exam\\RowColumnSum\\RowColumnSum.csproj": {
+    "C:\\Users\\user\\Documents\\Project\\.net\\.net-arrays-exam\\RowColumnSum\\RowColumnSum.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\user\\Documents\\Project\\.net\\.net-arrays-exam\\RowColumnSum\\RowColumnSum.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Documents\\Project\\.net\\.net-arrays-exam\\RowColumnSum\\RowColumnSum.csproj",
         "projectName": "RowColumnSum",
-        "projectPath": "c:\\Users\\user\\Documents\\Project\\.net\\.net-arrays-exam\\RowColumnSum\\RowColumnSum.csproj",
+        "projectPath": "C:\\Users\\user\\Documents\\Project\\.net\\.net-arrays-exam\\RowColumnSum\\RowColumnSum.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\user\\Documents\\Project\\.net\\.net-arrays-exam\\RowColumnSum\\obj\\",
+        "outputPath": "C:\\Users\\user\\Documents\\Project\\.net\\.net-arrays-exam\\RowColumnSum\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 23.2\\Components\\Offline Packages",
