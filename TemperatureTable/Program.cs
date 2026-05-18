@@ -20,14 +20,17 @@ class Program
             {
                 Console.WriteLine("\nPlease enter the temperatures for the EVENING:");
             }
+
             for (int d = 0; d < days; d++)
             {
                 Console.Write($"Day {d + 1}:  ");
+
 
                 while (!double.TryParse(Console.ReadLine(), out temperatures[d, s]))
                 {
                     Console.Write("Invalid entry. Please enter a number: ");
                 }
+
             }
         }
 
