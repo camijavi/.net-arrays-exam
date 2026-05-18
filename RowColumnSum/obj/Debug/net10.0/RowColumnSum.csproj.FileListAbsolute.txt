@@ -1,0 +1,15 @@
+C:\Users\user\Documents\Project\.net\.net-arrays-exam\RowColumnSum\bin\Debug\net10.0\RowColumnSum.exe
+C:\Users\user\Documents\Project\.net\.net-arrays-exam\RowColumnSum\bin\Debug\net10.0\RowColumnSum.deps.json
+C:\Users\user\Documents\Project\.net\.net-arrays-exam\RowColumnSum\bin\Debug\net10.0\RowColumnSum.runtimeconfig.json
+C:\Users\user\Documents\Project\.net\.net-arrays-exam\RowColumnSum\bin\Debug\net10.0\RowColumnSum.dll
+C:\Users\user\Documents\Project\.net\.net-arrays-exam\RowColumnSum\bin\Debug\net10.0\RowColumnSum.pdb
+C:\Users\user\Documents\Project\.net\.net-arrays-exam\RowColumnSum\obj\Debug\net10.0\RowColumnSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Project\.net\.net-arrays-exam\RowColumnSum\obj\Debug\net10.0\RowColumnSum.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Project\.net\.net-arrays-exam\RowColumnSum\obj\Debug\net10.0\RowColumnSum.AssemblyInfo.cs
+C:\Users\user\Documents\Project\.net\.net-arrays-exam\RowColumnSum\obj\Debug\net10.0\RowColumnSum.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Project\.net\.net-arrays-exam\RowColumnSum\obj\Debug\net10.0\RowColumnSum.sourcelink.json
+C:\Users\user\Documents\Project\.net\.net-arrays-exam\RowColumnSum\obj\Debug\net10.0\RowColumnSum.dll
+C:\Users\user\Documents\Project\.net\.net-arrays-exam\RowColumnSum\obj\Debug\net10.0\refint\RowColumnSum.dll
+C:\Users\user\Documents\Project\.net\.net-arrays-exam\RowColumnSum\obj\Debug\net10.0\RowColumnSum.pdb
+C:\Users\user\Documents\Project\.net\.net-arrays-exam\RowColumnSum\obj\Debug\net10.0\RowColumnSum.genruntimeconfig.cache
+C:\Users\user\Documents\Project\.net\.net-arrays-exam\RowColumnSum\obj\Debug\net10.0\ref\RowColumnSum.dll

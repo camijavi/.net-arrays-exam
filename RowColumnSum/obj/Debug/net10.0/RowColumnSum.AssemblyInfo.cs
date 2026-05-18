@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RowColumnSum")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4e524b284cd540eee7b38218990c2eb653e8dbbc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3ce1bc0225e3a61f5f8130fadcb1e4ce48f4427c")]
 [assembly: System.Reflection.AssemblyProductAttribute("RowColumnSum")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RowColumnSum")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
