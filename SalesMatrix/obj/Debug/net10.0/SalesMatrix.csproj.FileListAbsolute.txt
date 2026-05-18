@@ -1,0 +1,15 @@
+C:\Users\user\Documents\Project\.net\.net-arrays-exam\Salesmatrix\bin\Debug\net10.0\SalesMatrix.exe
+C:\Users\user\Documents\Project\.net\.net-arrays-exam\Salesmatrix\bin\Debug\net10.0\SalesMatrix.deps.json
+C:\Users\user\Documents\Project\.net\.net-arrays-exam\Salesmatrix\bin\Debug\net10.0\SalesMatrix.runtimeconfig.json
+C:\Users\user\Documents\Project\.net\.net-arrays-exam\Salesmatrix\bin\Debug\net10.0\SalesMatrix.dll
+C:\Users\user\Documents\Project\.net\.net-arrays-exam\Salesmatrix\bin\Debug\net10.0\SalesMatrix.pdb
+C:\Users\user\Documents\Project\.net\.net-arrays-exam\Salesmatrix\obj\Debug\net10.0\SalesMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Project\.net\.net-arrays-exam\Salesmatrix\obj\Debug\net10.0\SalesMatrix.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Project\.net\.net-arrays-exam\Salesmatrix\obj\Debug\net10.0\SalesMatrix.AssemblyInfo.cs
+C:\Users\user\Documents\Project\.net\.net-arrays-exam\Salesmatrix\obj\Debug\net10.0\SalesMatrix.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Project\.net\.net-arrays-exam\Salesmatrix\obj\Debug\net10.0\SalesMatrix.sourcelink.json
+C:\Users\user\Documents\Project\.net\.net-arrays-exam\Salesmatrix\obj\Debug\net10.0\SalesMatrix.dll
+C:\Users\user\Documents\Project\.net\.net-arrays-exam\Salesmatrix\obj\Debug\net10.0\refint\SalesMatrix.dll
+C:\Users\user\Documents\Project\.net\.net-arrays-exam\Salesmatrix\obj\Debug\net10.0\SalesMatrix.pdb
+C:\Users\user\Documents\Project\.net\.net-arrays-exam\Salesmatrix\obj\Debug\net10.0\SalesMatrix.genruntimeconfig.cache
+C:\Users\user\Documents\Project\.net\.net-arrays-exam\Salesmatrix\obj\Debug\net10.0\ref\SalesMatrix.dll

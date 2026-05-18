@@ -56,7 +56,7 @@ class Program
 
         double GlobalAverage = sumaTotal / (days * schedules);
 
-        Console.WriteLine("\nEstadísticas Generales:");
+        Console.WriteLine("\nGeneral Statistics:");
         Console.WriteLine($"> Average Temperature: {GlobalAverage:F1}°C");
         Console.WriteLine($"> Highest Temperature: {maximaGlobal}°C");
         Console.WriteLine($"> Lowest Temperature: {minimaGlobal}°C");
