@@ -1,0 +1,15 @@
+C:\Users\user\Documents\Project\.net\.net-arrays-exam\GradesRecords\bin\Debug\net10.0\GradesRecords.exe
+C:\Users\user\Documents\Project\.net\.net-arrays-exam\GradesRecords\bin\Debug\net10.0\GradesRecords.deps.json
+C:\Users\user\Documents\Project\.net\.net-arrays-exam\GradesRecords\bin\Debug\net10.0\GradesRecords.runtimeconfig.json
+C:\Users\user\Documents\Project\.net\.net-arrays-exam\GradesRecords\bin\Debug\net10.0\GradesRecords.dll
+C:\Users\user\Documents\Project\.net\.net-arrays-exam\GradesRecords\bin\Debug\net10.0\GradesRecords.pdb
+C:\Users\user\Documents\Project\.net\.net-arrays-exam\GradesRecords\obj\Debug\net10.0\GradesRecords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Project\.net\.net-arrays-exam\GradesRecords\obj\Debug\net10.0\GradesRecords.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Project\.net\.net-arrays-exam\GradesRecords\obj\Debug\net10.0\GradesRecords.AssemblyInfo.cs
+C:\Users\user\Documents\Project\.net\.net-arrays-exam\GradesRecords\obj\Debug\net10.0\GradesRecords.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Project\.net\.net-arrays-exam\GradesRecords\obj\Debug\net10.0\GradesRecords.sourcelink.json
+C:\Users\user\Documents\Project\.net\.net-arrays-exam\GradesRecords\obj\Debug\net10.0\GradesRecords.dll
+C:\Users\user\Documents\Project\.net\.net-arrays-exam\GradesRecords\obj\Debug\net10.0\refint\GradesRecords.dll
+C:\Users\user\Documents\Project\.net\.net-arrays-exam\GradesRecords\obj\Debug\net10.0\GradesRecords.pdb
+C:\Users\user\Documents\Project\.net\.net-arrays-exam\GradesRecords\obj\Debug\net10.0\GradesRecords.genruntimeconfig.cache
+C:\Users\user\Documents\Project\.net\.net-arrays-exam\GradesRecords\obj\Debug\net10.0\ref\GradesRecords.dll
