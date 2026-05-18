@@ -7,7 +7,7 @@ class Program
 
         int days = 5;
         int schedules = 2;
-        double[,] temperaturas = new double[days, schedules];
+        double[,] temperatures = new double[days, schedules];
 
         Console.Clear();
         for (int s = 0; s < schedules; s++)
@@ -24,7 +24,7 @@ class Program
             {
                 Console.Write($"Day {d + 1}:  ");
 
-                while (!double.TryParse(Console.ReadLine(), out temperaturas[d, s]))
+                while (!double.TryParse(Console.ReadLine(), out temperatures[d, s]))
                 {
                     Console.Write("Invalid entry. Please enter a number: ");
                 }
@@ -41,8 +41,8 @@ class Program
         Console.WriteLine("\nAverage temperature of each day:");
         for (int d = 0; d < days; d++)
         {
-            double manana = temperaturas[d, 0];
-            double tarde = temperaturas[d, 1];
+            double manana = temperatures[d, 0];
+            double tarde = temperatures[d, 1];
 
             // Cálculos del día
             double dayAverage = (manana + tarde) / 2.0;
