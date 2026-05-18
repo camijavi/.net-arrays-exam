@@ -1,0 +1,15 @@
+C:\Users\user\Documents\Project\.net\.net-arrays-exam\EvenOddNumCounter\bin\Debug\net10.0\EvenOddNumCounter.exe
+C:\Users\user\Documents\Project\.net\.net-arrays-exam\EvenOddNumCounter\bin\Debug\net10.0\EvenOddNumCounter.deps.json
+C:\Users\user\Documents\Project\.net\.net-arrays-exam\EvenOddNumCounter\bin\Debug\net10.0\EvenOddNumCounter.runtimeconfig.json
+C:\Users\user\Documents\Project\.net\.net-arrays-exam\EvenOddNumCounter\bin\Debug\net10.0\EvenOddNumCounter.dll
+C:\Users\user\Documents\Project\.net\.net-arrays-exam\EvenOddNumCounter\bin\Debug\net10.0\EvenOddNumCounter.pdb
+C:\Users\user\Documents\Project\.net\.net-arrays-exam\EvenOddNumCounter\obj\Debug\net10.0\EvenOddNumCounter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Project\.net\.net-arrays-exam\EvenOddNumCounter\obj\Debug\net10.0\EvenOddNumCounter.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Project\.net\.net-arrays-exam\EvenOddNumCounter\obj\Debug\net10.0\EvenOddNumCounter.AssemblyInfo.cs
+C:\Users\user\Documents\Project\.net\.net-arrays-exam\EvenOddNumCounter\obj\Debug\net10.0\EvenOddNumCounter.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Project\.net\.net-arrays-exam\EvenOddNumCounter\obj\Debug\net10.0\EvenOddNumCounter.sourcelink.json
+C:\Users\user\Documents\Project\.net\.net-arrays-exam\EvenOddNumCounter\obj\Debug\net10.0\EvenOddNumCounter.dll
+C:\Users\user\Documents\Project\.net\.net-arrays-exam\EvenOddNumCounter\obj\Debug\net10.0\refint\EvenOddNumCounter.dll
+C:\Users\user\Documents\Project\.net\.net-arrays-exam\EvenOddNumCounter\obj\Debug\net10.0\EvenOddNumCounter.pdb
+C:\Users\user\Documents\Project\.net\.net-arrays-exam\EvenOddNumCounter\obj\Debug\net10.0\EvenOddNumCounter.genruntimeconfig.cache
+C:\Users\user\Documents\Project\.net\.net-arrays-exam\EvenOddNumCounter\obj\Debug\net10.0\ref\EvenOddNumCounter.dll

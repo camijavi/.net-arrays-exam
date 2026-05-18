@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EvenOddNumCounter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+565c75ef8fae8820d06a42d2a8dfe82f3a8c6e57")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+76ff757d1af355f5619dc2cf4958ed047b0c6a38")]
 [assembly: System.Reflection.AssemblyProductAttribute("EvenOddNumCounter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EvenOddNumCounter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
